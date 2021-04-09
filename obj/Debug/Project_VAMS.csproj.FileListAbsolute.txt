@@ -1,0 +1,33 @@
+c:\users\xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\bin\Project_June.dll.config
+c:\users\xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\bin\Project_June.dll
+c:\users\xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\bin\Project_June.pdb
+c:\users\xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\obj\Debug\Project_June.csprojResolveAssemblyReference.cache
+c:\users\xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\obj\Debug\Project_June.dll
+c:\users\xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\obj\Debug\Project_June.pdb
+C:\Users\Xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\bin\AjaxControlToolkit.dll
+C:\Users\Xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\obj\Debug\RdlCompile.cache
+C:\Users\Xeeiltic\documents\visual studio 2013\Projects\Project_June\Project_June\obj\Debug\RdlCompile.compiled
+E:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.csprojAssemblyReference.cache
+E:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.csproj.CoreCompileInputs.cache
+E:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.dll
+E:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.pdb
+K:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.csprojAssemblyReference.cache
+K:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.csproj.CoreCompileInputs.cache
+K:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.dll
+K:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.pdb
+K:\Project files & Report\Project_June\Project_June\obj\Debug\RdlCompile.cache
+K:\Project files & Report\Project_June\Project_June\obj\Debug\RdlCompile.compiled
+K:\Project files & Report\Project_June\Project_June\bin\Project_June.dll.config
+K:\Project files & Report\Project_June\Project_June\bin\Project_June.dll
+K:\Project files & Report\Project_June\Project_June\bin\Project_June.pdb
+K:\Project files & Report\Project_June\Project_June\obj\Debug\Project_June.csproj.CopyComplete
+K:\Project files & Report\Project_June\Project_June\bin\SqlServerTypes\x64\msvcr120.dll
+K:\Project files & Report\Project_June\Project_June\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+K:\Project files & Report\Project_June\Project_June\bin\SqlServerTypes\x86\msvcr120.dll
+K:\Project files & Report\Project_June\Project_June\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+K:\Project files & Report\Project_June\Project_June\bin\Microsoft.ReportViewer.Common.dll
+K:\Project files & Report\Project_June\Project_June\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+K:\Project files & Report\Project_June\Project_June\bin\Microsoft.ReportViewer.WebForms.DLL
+K:\Project files & Report\Project_June\Project_June\bin\Microsoft.SqlServer.Types.dll
+K:\Project files & Report\Project_June\Project_June\bin\Newtonsoft.Json.dll
+K:\Project files & Report\Project_June\Project_June\bin\Newtonsoft.Json.xml
