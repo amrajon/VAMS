@@ -24,6 +24,7 @@ namespace Project_VAMS.Pages.Management
             SqlCommand com = new SqlCommand(str, con);
             com.Parameters.Add("@search", SqlDbType.VarChar).Value = txtSearch.Text;
 
+            //sql connection open
             con.Open();
             com.ExecuteNonQuery();
             SqlDataAdapter da = new SqlDataAdapter();
