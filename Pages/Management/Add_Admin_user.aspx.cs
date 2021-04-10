@@ -14,6 +14,7 @@ namespace Project_VAMS.Pages.Management
     public partial class Add_user : System.Web.UI.Page
     {
         string strConnString = ConfigurationManager.ConnectionStrings["Project_VAMSConnectionString"].ConnectionString;
+        //open sql commands
         SqlCommand com;
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -33,6 +34,7 @@ namespace Project_VAMS.Pages.Management
             SqlConnection con = new SqlConnection(strConnString);
             con.Open();
 
+            //sql commands
             com = new SqlCommand("select * from [login] where UserName=@Name", con);
             com.Parameters.AddWithValue("@Name", txtUserId.Text);
             SqlDataReader dr = com.ExecuteReader();
