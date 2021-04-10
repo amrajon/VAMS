@@ -28,6 +28,7 @@ namespace Project_VAMS.Pages.Management
         protected void btnSearch_Click(object sender, EventArgs e)
         {
 
+            //configuration for showing the fields
             String str = "Select Id, Nationality, LastName, FirstName, DOB, Sex, PassportNumber, TypeOfPassport, PurposeOfVisit, NumberofEntries, DateOfPassportExpiry, Application_Status from Applicant_Details where (PassportNumber like '%' +@search + '%') ";
             SqlCommand com = new SqlCommand(str, con);
 
@@ -36,6 +37,7 @@ namespace Project_VAMS.Pages.Management
 
             com.ExecuteNonQuery();
 
+            //SQL data adapter, data set and data bind
             SqlDataAdapter da = new SqlDataAdapter();
             da.SelectCommand = com;
             DataSet ds = new DataSet();
