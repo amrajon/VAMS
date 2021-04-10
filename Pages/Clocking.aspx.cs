@@ -11,6 +11,7 @@ namespace Project_VAMS.Pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //showing the realtime vew of a clock in the text format
             lblClock.Text = DateTime.Now.ToString();
             
         }
