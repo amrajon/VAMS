@@ -14,6 +14,7 @@ namespace Project_VAMS.Pages.Account
 {
     public partial class Registration : System.Web.UI.Page
     {
+        //setitng up and configuring the SQL connection string 
         string strConnString = ConfigurationManager.ConnectionStrings["Project_VAMSConnectionString"].ConnectionString;
         SqlCommand com;
 
@@ -43,7 +44,7 @@ namespace Project_VAMS.Pages.Account
             if (dr.HasRows)
             {
                 lblError.Text = "This user id has been using by another user!";
-                // "UserName Already Taken";
+                //"UserName Already Taken";
             }
             else
             {
