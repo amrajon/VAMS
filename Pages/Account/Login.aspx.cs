@@ -23,6 +23,7 @@ namespace Project_VAMS.Pages.Account
         
         protected void btnLogin_Click(object sender, EventArgs e)
         {
+            //Open sql connection
             SqlConnection con = new SqlConnection(strConnString);
             con.Open();
             str = "Select * from Login";
@@ -38,6 +39,7 @@ namespace Project_VAMS.Pages.Account
                 if (UserName == txtLogin.Text && Password == txtPassword.Text)
                 {
                     Session["UserName"] = UserName;
+                    //based on the user role it redirects to their respective homepage
                     if (dt.Rows[i]["Role"].ToString() == "Administrator")
                         Response.Redirect("~/Pages/Management/AdminPage.aspx");
                     else if (dt.Rows[i]["Role"].ToString() == "Applicant")
