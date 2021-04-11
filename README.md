@@ -338,64 +338,60 @@ Here fixed data structers are used.
 
 # Screenshots:
 
-**Screenshot 1**
+**Screenshot 1: (Home Page)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(1).PNG)
 
-**Screenshot 2**
+**Screenshot 2: (Visa Policy)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(2).PNG)
 
-**Screenshot 3**
+**Screenshot 3: (Visa Requirements)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(3).PNG)
 
-**Screenshot 4**
+**Screenshot 4: (Login Page)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(4).PNG)
 
-**Screenshot 5**
+**Screenshot 5: (Registration Page)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(5).PNG)
 
-**Screenshot 6**
+**Screenshot 6: (Admin Dashboard)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(6).PNG)
 
-**Screenshot 7**
+**Screenshot 7: (View Users - Admin View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(7).PNG)
 
-**Screenshot 8**
+**Screenshot 8: (Registration - Admin View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(8).PNG)
 
-**Screenshot 9**
+**Screenshot 9: (Search User - Admin View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(9).PNG)
 
-**Screenshot 10**
+**Screenshot 10: (View Application Details - Admin View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(10).PNG)
 
-**Screenshot 11**
+**Screenshot 11: (Applicant Dashboard)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(11).PNG)
 
-**Screenshot 12**
+**Screenshot 12: (Application Status Checking - Applicant View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(12).PNG)
 
-**Screenshot 13**
+**Screenshot 13: (Visa Application Submitting - Applicant View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(13).PNG)
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(140).png)
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(15).PNG)
 
-**Screenshot 14**
-
-![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(16).PNG)
-
-**Screenshot 15**
+**Screenshot 14: (Report Generate - Admin View)**
 
 ![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(17).PNG)
