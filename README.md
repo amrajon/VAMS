@@ -304,11 +304,15 @@ Microsoft Visual Studio is an integrated development environment (IDE) for devel
 
 A Domain Specific Language (DSL) is a computer language specialized to a particular application domain. This is in contrast to a general-purpose language, which is broadly applicable across domains.
 
-**Screensot 1:**
+**Screensot 1 (Github Analyzing):**
+
+![DSL (Domain Specific Language)](https://github.com/amrajon/VAMS/blob/main/Images/gt-dsl.png)
+
+**Screensot 2:**
 
 ![DSL (Domain Specific Language)](https://github.com/amrajon/VAMS/blob/main/Images/dsl21.PNG)
 
-**Screensot 2:**
+**Screensot 3:**
 
 ![DSL (Domain Specific Language)](https://github.com/amrajon/VAMS/blob/main/Images/dsl.png)
 
