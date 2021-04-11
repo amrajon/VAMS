@@ -331,3 +331,71 @@ Higher order functions is used.
 Here fixed data structers are used.
 
 ![Data Structure](https://github.com/amrajon/VAMS/blob/main/Images/ds.PNG)
+
+
+**************************************************************************************************************
+
+
+# Screenshots:
+
+**Screenshot 1**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(1).PNG)
+
+**Screenshot 2**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(2).PNG)
+
+**Screenshot 3**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(3).PNG)
+
+**Screenshot 4**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(4).PNG)
+
+**Screenshot 5**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(5).PNG)
+
+**Screenshot 6**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(6).PNG)
+
+**Screenshot 7**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(7).PNG)
+
+**Screenshot 8**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(8).PNG)
+
+**Screenshot 9**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(9).PNG)
+
+**Screenshot 10**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(10).PNG)
+
+**Screenshot 11**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(11).PNG)
+
+**Screenshot 12**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(12).PNG)
+
+**Screenshot 13**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(13).PNG)
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(140).png)
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(15).PNG)
+
+**Screenshot 14**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(16).PNG)
+
+**Screenshot 15**
+
+![VAMS Project screenshots](https://github.com/amrajon/VAMS/blob/main/Images/P%20(17).PNG)
