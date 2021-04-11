@@ -130,11 +130,15 @@ Sonar Cloud, and Codacy are the Metrics which is based on SonarQube. SonarQube i
 My project got passed in the Quality Gate check. The readability, security, and maintainability were scored A and there it found some duplication which measured as 0.7% of the total source codes.
 In Duplications block, it shows there is 2 blocks which are duplicated. Those blocks are in the Applicant’s Details page which 2 were used for inserting for the first time and updating for further process.
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=amrajon_VAMS)](https://sonarcloud.io/dashboard?id=amrajon_VAMS)
+
 ![Sonar Cloud](https://github.com/amrajon/VAMS/blob/main/Images/SonarQube%20Metrics2.jpg)
 
 #### B. Codacy:
 Codacy Automatically identify issues through static code review analysis. Therefore we can be notified on security issues, code coverage, code duplication, and code complexity in every commit and pull request, directly from your current workflow.
 In Codacy it graded as the rating B while it showed the issues 11%, complexity is 12% and duplication is 21%.
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/878e50599f534fdfa7a2cc7473522039)](https://www.codacy.com/gh/amrajon/VAMS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amrajon/VAMS&amp;utm_campaign=Badge_Grade)
 
 ![Codacy](https://github.com/amrajon/VAMS/blob/main/Images/Codacy%20Metrics.png)
 
