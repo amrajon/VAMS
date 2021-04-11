@@ -6,7 +6,7 @@ My project VISA APPLICATION MANAGEMENT SYSTEM (VAMS) gives the depth solution to
 
 The methodology I used to develop my system is RAD (Rapid Application Development).
 
-I used ASP:NET as the framework and C# (C-Sharp) as the language and it is deployed on IIS server.
+I used ASP.NET as the framework and C# (C-Sharp) as the language and it is deployed on IIS server.
 
 
 
