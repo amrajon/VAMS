@@ -261,6 +261,8 @@ In software development, a build is the process of converting source code files 
 
 ## 6. Unit testing:
 
+In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.
+
 ## 7. Continuous Integration (Using GitHub for Visual Studio):
 
 The GitHub for Visual Studio makes it easy to connect to and work with our repositories on GitHub and GitHub Enterprise from directly within Visual Studio 2015 or newer. Clone existing repositories or create new ones and start collaborating and follows the integration continuously.
