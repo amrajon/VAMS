@@ -306,7 +306,7 @@ A Domain Specific Language (DSL) is a computer language specialized to a particu
 
 **Screensot 1:**
 
-![DSL (Domain Specific Language)](https://github.com/amrajon/VAMS/blob/main/Images/dsl2.PNG)
+![DSL (Domain Specific Language)](https://github.com/amrajon/VAMS/blob/main/Images/dsl21.PNG)
 
 **Screensot 2:**
 
