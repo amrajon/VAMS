@@ -1,0 +1,2 @@
+K:\Project files & Report\VAMS - Copy\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+K:\Project files & Report\VAMS - Copy\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
