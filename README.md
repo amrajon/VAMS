@@ -1,9 +1,5 @@
 # Exercises:
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dac1132a7aeb4b7086912a150624d473)](https://app.codacy.com/gh/amrajon/VAMS?utm_source=github.com&utm_medium=referral&utm_content=amrajon/VAMS&utm_campaign=Badge_Grade_Settings)
-
-
-
 My project VISA APPLICATION MANAGEMENT SYSTEM (VAMS) gives the depth solution to management of visa application in an effective way. As now we can see many of our visa application centre converted their manual management system to computerized system to get the works easier and make the solution very dynamic. Besides that, the manual visa application management system has several problems which obstruct the smooth visa application management and there is also possibility of leaking the valuable and confidential information of a visa applicant. Moreover, the manual system takes a bit longer time to processing the visa application. So, here the objectives of this projects are to develop an online visa application management system for make visa application management easier than the manual system and create a centralized database to store all the visa application information together.
 
 The methodology I used to develop my system is RAD (Rapid Application Development).
@@ -265,6 +261,10 @@ In software development, a build is the process of converting source code files 
 
 In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.
 
+![Unit testing](https://github.com/amrajon/VAMS/blob/main/Images/tst.PNG)
+
+![Unit testing](https://github.com/amrajon/VAMS/blob/main/Images/tst1.png)
+
 ## 7. Continuous Integration (Using GitHub for Visual Studio):
 
 The GitHub for Visual Studio makes it easy to connect to and work with our repositories on GitHub and GitHub Enterprise from directly within Visual Studio 2015 or newer. Clone existing repositories or create new ones and start collaborating and follows the integration continuously.
@@ -340,6 +340,25 @@ Here fixed data structers are used.
 
 ![Data Structure](https://github.com/amrajon/VAMS/blob/main/Images/ds.PNG)
 
+#### D. Some Functions
+
+Here are some functions which were used.
+
+**Screensot 1:**
+
+![Functions](https://github.com/amrajon/VAMS/blob/main/Images/fc1.PNG)
+
+**Screensot 2:**
+
+![Functions](https://github.com/amrajon/VAMS/blob/main/Images/fc2.PNG)
+
+**Screensot 3:**
+
+![Functions](https://github.com/amrajon/VAMS/blob/main/Images/fc3.PNG)
+
+**Screensot 4:**
+
+![Functions](https://github.com/amrajon/VAMS/blob/main/Images/fc4.PNG)
 
 **************************************************************************************************************
 
