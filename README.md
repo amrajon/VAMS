@@ -153,16 +153,16 @@ In Codacy it graded as the rating B while it showed the issues 11%, complexity i
 ## 4.	Clean code development:
 The most popular definition of clean code is code that is easy to understand and easy to change. We could certainly say that the code follows some of the criteria of what makes code easy to understand. Such as, easy to understand the execution flow of the entire application, how the different objects collaborate with each other, the role and responsibility of each class, what each method does or easy to understand what is the purpose of each expression and variable. Here it is being discussed some of the techniques of clean code development:
 
-#### i. Consistent naming convention:
+#### A. Consistent naming convention:
 
 Throughout coding, naming scheme of camel case is used for both variables and functions. Moreover, for immutable/final variables all-upper-casing scheme is used.
 
-#### ii. Configure Data at Higher Level:
+#### B. Configure Data at Higher Level:
 All configurable data (for example: Packages, Directory names, paths), have been placed at higher level, making tweaking of values easier for the purpose of debugging.
 
 ![Configure Data at Higher Level](https://github.com/amrajon/VAMS/blob/main/Images/1.PNG)
 
-#### iii. Clean use of Functions:
+#### C. Clean use of Functions:
 It is tried to keep small and do one thing and sometimes I used descriptive names and fewer arguments.
 
 **Screensot 1:**
@@ -181,7 +181,7 @@ It is tried to keep small and do one thing and sometimes I used descriptive name
 
 ![Clean use of Functions](https://github.com/amrajon/VAMS/blob/main/Images/r3.png)
 
-#### iv. Follow of comments rule:
+#### D. Follow of comments rule:
 I tried to explain what is happening by making a short comment and tried to give explanation for further if i need to think about it then sometimes it takes time to understand the codes.
 
 **Screensot 1:**
@@ -192,7 +192,7 @@ I tried to explain what is happening by making a short comment and tried to give
 
 ![Follow of comments rule](https://github.com/amrajon/VAMS/blob/main/Images/6.PNG)
 
-#### v. General Rules for clean coding:
+#### E. General Rules for clean coding:
 - Followed standard conventions.
 - Tried to keep it simple.
 - Tried to keep clean.
