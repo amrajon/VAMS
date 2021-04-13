@@ -140,7 +140,7 @@ In Codacy it graded as the rating B while it showed the issues 11%, complexity i
 
 ![Codacy](https://github.com/amrajon/VAMS/blob/main/Images/Codacy%20Metrics.png)
 
-#### B. Visual Studio Code Metrics:
+#### C. Visual Studio Code Metrics:
 
 **Screensot 1:**
 
