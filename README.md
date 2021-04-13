@@ -263,7 +263,6 @@ In computer programming, unit testing is a software testing method by which indi
 
 ![Unit testing](https://github.com/amrajon/VAMS/blob/main/Images/tst.PNG)
 
-![Unit testing](https://github.com/amrajon/VAMS/blob/main/Images/tst1.png)
 
 ## 7. Continuous Integration (Using GitHub for Visual Studio):
 
